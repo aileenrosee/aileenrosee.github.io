@@ -183,6 +183,8 @@ sub {
 
 img {
   border: 0;
+  margin: 40px 0px 0px 0px;
+  
 }
 
 /**
