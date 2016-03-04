@@ -18,6 +18,12 @@ ul {
   padding: 10px;
   background: black;
 }
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+}
+  color:white;
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
