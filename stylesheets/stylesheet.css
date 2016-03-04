@@ -8,6 +8,15 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: #606c71; }
+  
+div{
+  height: 200px;
+  background-size: cover;
+  position: relative;
+  margin: 40px 0 0 0;
+  padding: 10px;
+  border-radius: 12px;
+}
 
 a {
   color: #1e6bb8;
