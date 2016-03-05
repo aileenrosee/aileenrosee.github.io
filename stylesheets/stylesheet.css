@@ -36,8 +36,9 @@ a {
   a:hover {
     text-decoration: underline; }
 ul {
-  padding: 40px;
+  padding: 20px;
   background: black;
+  width:400px;
 }
 li {
   display: inline;
