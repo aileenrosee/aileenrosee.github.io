@@ -1,6 +1,6 @@
 * {
   box-sizing: border-box; }
-
+@media (width: 500px) {
 body {
   padding: 0;
   margin: 0;
@@ -46,7 +46,7 @@ li {
 .second{background-image: url("http://static.thousandwonders.net/Ring.of.Kerry.original.28132.jpg");}
 .third{background-image: url("http://www.galwaybustours.ie/uploads/images/Gallery/content/tour1_gallery/Cliffs-of-Moher.jpg");}
 .fourth{background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d5/Giant's_Causeway_(14).JPG");}
-
+}
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
