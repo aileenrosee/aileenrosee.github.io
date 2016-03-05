@@ -11,6 +11,11 @@ body {
   text-align: justify;
   
 }
+
+p{
+  color: black;
+  font-size:12px;
+}
   
 div{
   height: 400px;
