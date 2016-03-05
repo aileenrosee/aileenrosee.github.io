@@ -19,10 +19,10 @@ div{
 }
 
 a {
-  color: #1e6bb8;
+  color: white;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; }
+    text-decoration: underline; bold; }
 ul {
   padding: 10px;
   background: black;
@@ -30,7 +30,6 @@ ul {
 li {
   display: inline;
   padding: 0px 10px 0px 10px;
-}
   color:white;
 }
 
