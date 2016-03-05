@@ -23,7 +23,7 @@ a {
   color: white;
   text-decoration: none; }
   a:hover {
-    text-decoration: underline; bold; }
+    text-decoration: underline; }
 ul {
   padding: 40px;
   background: black;
@@ -34,7 +34,11 @@ li {
   color:white;
 }
 
-.first{url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg")}
+.first{background: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg")}
+.second{}
+.third{}
+.fourth{}
+
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
