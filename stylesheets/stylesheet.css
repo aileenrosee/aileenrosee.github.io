@@ -45,11 +45,11 @@ li {
   color:white;
 }
 
-.first{background-image: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg";)
-float: left;
+.first{background-image: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg");
+float: right;
 }
 .second{background-image: url("http://static.thousandwonders.net/Ring.of.Kerry.original.28132.jpg");
-  float:right;
+float: left;
 }
 .third{background-image: url("http://www.galwaybustours.ie/uploads/images/Gallery/content/tour1_gallery/Cliffs-of-Moher.jpg");}
 .fourth{background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d5/Giant's_Causeway_(14).JPG");}
