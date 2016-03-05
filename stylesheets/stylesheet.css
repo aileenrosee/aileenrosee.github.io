@@ -38,7 +38,7 @@ a {
 ul {
   padding: 20px;
   background: black;
-  width:400px;
+  position: justify;
 }
 li {
   display: inline;
@@ -49,6 +49,13 @@ li {
 .first{background-image: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg");
   position: relative;
 }
+.first a{
+    display: none;
+}
+
+.first  a:hover {
+    display: block;
+}
 .second{background-image: url("http://static.thousandwonders.net/Ring.of.Kerry.original.28132.jpg");
   position: relative;
 }
@@ -58,6 +65,7 @@ li {
 .fourth{background-image: url("https://upload.wikimedia.org/wikipedia/commons/d/d5/Giant's_Causeway_(14).JPG");
   position: relative;
 }
+
 
 .btn {
   display: inline-block;
