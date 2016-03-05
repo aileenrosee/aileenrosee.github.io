@@ -1,8 +1,6 @@
 * {
   box-sizing: border-box; }
-h3{
-  color: white;
-}
+
 body {
   padding: 0;
   margin: 0;
@@ -18,7 +16,7 @@ div{
   margin: 40px 0 0 0;
   padding: 10px;
   border-radius: 12px;
-  text-align: right;
+  text-align: justify;
 }
 
 a {
@@ -27,7 +25,7 @@ a {
   a:hover {
     text-decoration: underline; bold; }
 ul {
-  padding: 10px;
+  padding: 40px;
   background: black;
 }
 li {
