@@ -35,9 +35,9 @@ li {
 }
 
 .first{background: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg")}
-.second{}
-.third{}
-.fourth{}
+.second{background: url("http://static.thousandwonders.net/Ring.of.Kerry.original.28132.jpg");}
+.third{background: url("http://www.galwaybustours.ie/uploads/images/Gallery/content/tour1_gallery/Cliffs-of-Moher.jpg");}
+.fourth{background: url("https://upload.wikimedia.org/wikipedia/commons/d/d5/Giant's_Causeway_(14).JPG");}
 
 .btn {
   display: inline-block;
@@ -81,7 +81,6 @@ li {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background: url("http://www.signalbrands.com/wp-content/uploads/2015/10/1680x1050-dodger-blue-solid-color-background.jpg");
   background-image: linear-gradient(120deg, #155799, #159957); }
 
 @media screen and (min-width: 64em) {
