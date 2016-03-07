@@ -67,10 +67,9 @@ div{
   height: 400px;
   background-size: cover;
   position: relative;
-  margin: 0 auto;
+  margin: 40px 0 0 0;
   padding: 10px;
   border-radius: 12px;
-  text-align: justify;
 }
 
 a {
