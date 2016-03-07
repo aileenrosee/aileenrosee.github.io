@@ -9,9 +9,15 @@ h1{
   text-align: center;
   margin: 0 auto;
 }
-.form{
+form{
   position: center;
   color: white;
+}
+
+table{
+    width: 100%; 
+    background-color: #f1f1c1;
+
 }
 
 body {
