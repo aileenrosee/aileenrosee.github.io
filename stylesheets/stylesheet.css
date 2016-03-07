@@ -21,6 +21,7 @@ h1{
 form{
   position: absolute;
   color: black;
+  margin: auto 0;
 }
 
 table {
@@ -38,7 +39,7 @@ body {
   line-height: 1.5;
   color: black;
   text-align: justify;
-  margin:  100px 50px 0px 100px;
+  margin: auto 0;
   max-width: 800px;
   background:#4D4C4C;
 }
@@ -52,10 +53,10 @@ p{
   padding: 10px;
   line-height:28px;
   text-align: justify;
-  position absolute;
+  position: absolute;
   font-size:12px;
   bottom: 0;
-  margin:   25px 50px 75px 100px;
+  margin:   200px 50px 0px 100px;
   height: 50px;
   transition:height .5s;
   -webkit-transition: height .5s;
