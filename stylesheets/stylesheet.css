@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box; }
+  <script src="/assets/jquery.js"></script>
 h1 {
   <link href='https://fonts.googleapis.com/css?family=Marcellus+SC' rel='stylesheet' type='text/css'>
 }
@@ -376,3 +377,8 @@ li {
     font-size: 16px;
     }
 }
+<script>
+$("div").on('click', function() {
+  $(this).toggleClass('show-description');
+  });
+</script>
