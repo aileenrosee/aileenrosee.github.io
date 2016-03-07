@@ -72,6 +72,10 @@ li {
   padding: 0px 10px 0px 10px;
   color:white;
 }
+.footer{color: white;
+  position: bottom;
+  
+}
 
 .first{background-image: url("http://www.mulrannyparkhotel.ie/uploads/images/headerimages/P1030253.jpg");
   position: relative;
