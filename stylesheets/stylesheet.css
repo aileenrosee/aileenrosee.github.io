@@ -28,6 +28,13 @@ p{
   -moz-transition: height .5s;
   
 }
+.show-description p{
+  height:150px;
+}
+
+.show-description small{
+  opacity: 1;
+}
 p.hover{
   text-decoration: bold;
 }
@@ -35,7 +42,7 @@ p.hover{
 div{
   height: 400px;
   background-size: cover;
-  position: relative;
+  position: justify;
   margin: 20px 12px 0 12px;
   padding: 10px;
   border-radius: 12px;
