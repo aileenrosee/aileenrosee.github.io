@@ -39,7 +39,7 @@ body {
   line-height: 1.5;
   color: black;
   text-align: center;
-  margin: 0 auto;
+  margin: center;
   max-width: 900px;
   background:#4D4C4C;
 }
