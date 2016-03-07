@@ -19,7 +19,7 @@ h1{
    margin: 60px 0 0 0;
 }
 form{
-  position: absolute;
+  position: justify;
   color: black;
 }
 
@@ -37,7 +37,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   color: black;
-  text-align: justify;
+  text-align: center;
   margin: 0;
   max-width: 800px;
   background:#4D4C4C;
