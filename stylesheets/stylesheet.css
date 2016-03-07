@@ -9,6 +9,11 @@ h1{
   text-align: center;
   margin: 0 auto;
 }
+.form{
+  position: center;
+  color: white;
+}
+
 body {
   padding: 0;
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
