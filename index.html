@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
+    <script src="/assets/jquery.js"></script>
     <meta charset="UTF-8">
     <title>Irish Desitination</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
-  <link href='https://fonts.googleapis.com/css?family=Marcellus+SC' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Marcellus+SC' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
     
@@ -18,9 +19,9 @@
       <h2 class="project-tagline"></h2>
       <a href="https://www.facebook.com/Ireland/">Like us on Facebook!</a>
        <ul>
-      <li><a href="#">Travel</a></li>
-      <li><a href="#">Most Scenic</a></li>
-      <li><a href="#">Top Ten</a></li>
+      <li><a href="#">Map Of Ireland</a></li>
+      <li><a href="#"></a>History Of Ireland</li>
+      <li><a href="#">Ten Most popular</a></li>
     </ul>
     </section>
 
@@ -66,5 +67,10 @@
  </div>
       </section>
   
+  <script>
+$("div").on('click', function() {
+  $(this).toggleClass('show-description');
+  });
+</script>
   </body>
 </html>
