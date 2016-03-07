@@ -21,6 +21,7 @@ h1{
 form{
   position: justify;
   color: black;
+  text-align: center;
 }
 
 table {
@@ -52,7 +53,7 @@ p{
   padding: 10px;
   line-height:28px;
   text-align: justify;
-  position: absolute;
+  position: justify;
   font-size:12px;
   bottom: 0;
   margin: 200px 0px 0px 100px;
