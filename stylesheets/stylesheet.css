@@ -11,13 +11,13 @@ h1{
 }
 form{
   position: center;
-  color: white;
+  color: black;
 }
 
-table{
+table {
     width: 100%; 
-    background-color: #f1f1c1;
-
+    border-spacing: 5px;
+    text-align :center;
 }
 
 body {
